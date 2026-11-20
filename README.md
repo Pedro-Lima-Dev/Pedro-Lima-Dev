@@ -23,14 +23,16 @@ I'm constantly looking to expand my technical skills, explore new technologies, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Lima-Dev&theme=algolia&hide_border=true" />
 </p>
 
-<p Connect with me
+Connect with me
 
-Previous GitHub Account
-
+<p Previous GitHub Account
 Some of my older projects and contributions are still available on my previous GitHub account.
+ <a href = "https://github.com/PedroGSDL" 
+ 🔗 Visit my previous profile
+  </a>
 </p>
 
-🔗 Visit my previous profile
+
 <p>
   <a href="mailto:pedrogabrielsdlima@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
