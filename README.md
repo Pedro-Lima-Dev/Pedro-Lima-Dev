@@ -25,10 +25,11 @@ I'm constantly looking to expand my technical skills, explore new technologies, 
 
 Connect with me
 
-<p Previous GitHub Account
-Some of my older projects and contributions are still available on my previous GitHub account.
- <a href = "https://github.com/PedroGSDL" 
- 🔗 Visit my previous profile
+<p>
+  Some of my older projects and contributions are still available on my previous GitHub account.
+  <br>
+  <a href="https://github.com/PedroGSDL" target="_blank">
+    🔗 Visit my previous profile
   </a>
 </p>
 
