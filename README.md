@@ -19,21 +19,6 @@ I also have a strong interest in software development, especially C# and the .NE
 
 I'm constantly looking to expand my technical skills, explore new technologies, and build solutions that make a difference.
 
-💻 IT Support & Infrastructure
-
-⚙️ C# / .NET Development
-
-🌐 Networking & Troubleshooting
-
-☁️ Microsoft Azure & Microsoft 365
-
-📚 Systems Analysis and Development student
-
-🌎 English: C1 Advanced
-
-Technologies & Tools
-
-Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,python,java,mysql,mongodb" />
@@ -45,35 +30,19 @@ IT & Infrastructure
   <img src="https://skillicons.dev/icons?i=windows,linux,azure" />
 </p>
 
-Active Directory
-
-Microsoft 365
-
-Windows Server
-
-DNS & DHCP
-
-GLPI
-
-Networking & Troubleshooting
-
-GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Lima-Dev&theme=algolia&hide_border=true" />
 </p>
 
 Connect with me
 
 <p>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:pedrogabrielsdlima@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/pedro-gabriel-santos-de-lima-8b9886170">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <i>"Always learning, always building."</i>
-</p>
