@@ -19,18 +19,6 @@ I also have a strong interest in software development, especially C# and the .NE
 
 I'm constantly looking to expand my technical skills, explore new technologies, and build solutions that make a difference.
 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,python,java,mysql,mongodb" />
-</p>
-
-IT & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,azure" />
-</p>
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Lima-Dev&theme=algolia&hide_border=true" />
 </p>
