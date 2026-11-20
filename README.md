@@ -1,8 +1,8 @@
 Hey, I'm PedroGSDL! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=algolia&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=algolia&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Lima-Dev&show_icons=true&theme=algolia&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lima-Dev&layout=compact&theme=algolia&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
